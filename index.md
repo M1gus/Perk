@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-
 <html xmlns="http://www.w3.org/1999/xhtml">
 
 <head>
@@ -297,7 +295,7 @@ div.tocify {
 <div id="general-information" class="section level2">
 <h2>General information</h2>
 <p><br />
-This pipeline relates to data included in Figures 2 to 7, as well as Supplementary tables included in the supplementary materials, from our study titled <strong>Combined transcriptomics and proteomics analysis of Perk toxicity pathways</strong>, by Rebeka Popovic, Ivana Celardo, Yizhou Yu, Ana C. Costa, Samantha H. Y. Loh and L. Miguel Martins at the MRC Toxicology Unit, University of Cambridge.</p>
+This pipeline relates to data included in Figures 2 to 7, as well as in supplementary tables, part of the supplementary materials, from our study titled <a href="https://www.mdpi.com/1422-0067/22/9/4598">Combined transcriptomics and proteomics analysis of Perk toxicity pathways</a>, <br>by Rebeka Popovic, Ivana Celardo, Yizhou Yu, Ana C. Costa, Samantha H. Y. Loh and L. Miguel Martins at the MRC Toxicology Unit, University of Cambridge.</p>
 <p><br />
 </p>
 <div id="aims-and-objectives" class="section level3">
